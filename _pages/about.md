@@ -12,7 +12,7 @@ Welcome! My name is Judah Goldfeder, and I am a Phd student in the [Creative Mac
 
 Research Interests
 ======
-I am interested in most aspects of Artificial Intelligence, but some of the topics that interest me most are Reinforcement Learning, Algorithmic Game Theory, Multi-agent AI, and Unsupervised Representation learning. While we are quite far away from any form of AGI, I think these topics are all leading in that direction, which is part of why I find them so exciting.
+I am interested in most aspects of Artificial Intelligence, but some of the topics that interest me most are Reinforcement Learning, Algorithmic Game Theory, Multi-agent AI, and Unsupervised Representation Learning. While we are quite far away from any form of AGI, I think these topics are all leading in that direction, which is part of why I find them so exciting.
 
 
 
