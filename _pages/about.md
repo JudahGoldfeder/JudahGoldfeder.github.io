@@ -8,11 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! My name is Judah Goldfeder, and I am a Phd student in the [Creative Machines Lab](https://www.creativemachineslab.com/) at [Columbia University](https://www.columbia.edu/), where I am fortunate to be advised by [Hod Lipson](https://www.hodlipson.com/). I am also a student researcher at [Google AI](https://ai.google/).
+Welcome! My name is Judah Goldfeder, and I am a Phd student in the [Creative Machines Lab](https://www.creativemachineslab.com/) at [Columbia University](https://www.columbia.edu/), where I am fortunate to be advised by [Hod Lipson](https://www.hodlipson.com/). I am also a student researcher at [Google AI](https://ai.google/), and a Research Consultant for [Dicta](https://dicta.org.il/).
 
 Research Interests
 ======
 I am interested in most aspects of Artificial Intelligence, but some of the topics that interest me most are Reinforcement Learning, Algorithmic Game Theory, Multi-agent AI, and Unsupervised Representation Learning. While we are quite far away from any form of AGI, I think these topics are all leading in that direction, which is part of why I find them so exciting.
 
-
-
+Experience
+======
+Previously, I was a Machine Learning Intern at [Facebook AI Research](https://ai.facebook.com/), where I worked on applying [Transformers](https://en.wikipedia.org/wiki/Transformer_(machine_learning_model)) to [Graph Neural Networks](https://en.wikipedia.org/wiki/Graph_neural_network) at scale. I was also a Machine Learning intern at [Twitter](https://twitter.com/), where I worked on improving production ads models. I also was a Machine Learning intern at [Google AI](https://ai.google/), where I worked on applying [Reinforcement Learning](https://en.wikipedia.org/wiki/Reinforcement_learning) to improve [HVAC](https://en.wikipedia.org/wiki/Heating,_ventilation,_and_air_conditioning) systems. 
