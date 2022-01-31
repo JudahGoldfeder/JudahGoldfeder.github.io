@@ -1,6 +1,6 @@
 ---
 title: "Didactic Implementation of Counterfactual Regret Minimization on Kuhn Poker"
-excerpt: ""Easy to understand implementation of CFR on Kuhn Poker, to help people learn about the algorithm. [image source](https://www.scientificamerican.com/article/time-to-fold-humans-poker-playing-ai-beats-pros-at-texas-hold-rsquo-em/)<br/><img src='/images/poker.jpeg'>"
+excerpt: "Easy to understand implementation of CFR on Kuhn Poker, to help people learn about the algorithm. [image source](https://www.scientificamerican.com/article/time-to-fold-humans-poker-playing-ai-beats-pros-at-texas-hold-rsquo-em/)<br/><img src='/images/poker.jpeg'>"
 
 
 collection: portfolio
