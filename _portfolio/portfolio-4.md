@@ -5,7 +5,7 @@ excerpt: "Powerful Chess engine using modern techniques. [image source](https://
 
 collection: portfolio
 ---
-<br/><img src='/images/chess_big.jpeg'>
+<br/><img src='/images/chess_big.jpg'>
 
 When I was in High School I wrote a Chess Engine, teaching myself how to code along the way, and making extensive use of the excellent [Chess Programming Wiki](https://www.chessprogramming.org/Main_Page).
 Aside from learning C++, I developed a pretty complex Chess Engine using start of the art (for 2016) techniques, most of which are still used in top engines like [Stockfish](https://stockfishchess.org/) today. Aside from the basic Alpha-beta search, some fancy chess specific techniques I made us of are:
