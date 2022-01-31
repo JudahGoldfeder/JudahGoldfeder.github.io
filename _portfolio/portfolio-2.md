@@ -1,5 +1,5 @@
 ---
-title: "Automated Puncutation Tagging for Medieval Hebrew Manuscripts"
+title: "Automated Punctuation Tagging for Medieval Hebrew Manuscripts"
 excerpt: "LSTM based tool to automatically punctuate old Hebrew Manuscripts, developed for an education non-profit. [image source](https://beinecke.library.yale.edu/article/hebrew-manuscripts)<br/><img src='/images/manuscript.jpeg'>"
 
 
