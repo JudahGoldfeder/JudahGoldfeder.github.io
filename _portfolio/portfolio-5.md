@@ -5,7 +5,7 @@ excerpt: "Easy to understand implementation of CFR on Kuhn Poker, to help people
 
 collection: portfolio
 ---
-<br/><img src='/images/poker.jpeg'>
+<br/><img src='/images/poker_bigger.jpeg'>
 
 Counterfactual Regret Minimization, or CFR, is an important algorithm for finding [Nash Equilibria](https://en.wikipedia.org/wiki/Nash_equilibrium) in imperfect information games like poker. When I was learning about it, I had trouble find a clear, easy to understand implementation online, so I wrote one myself.
 
