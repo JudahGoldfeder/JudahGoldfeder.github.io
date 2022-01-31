@@ -1,6 +1,6 @@
 ---
 title: "Chess Engine in C++"
-excerpt: "Powerful Chess engine using modern techniques. [image source](https://www.istockphoto.com/photos/computer-chess)<br/><img src='/images/chess.jpeg'>"
+excerpt: "Powerful Chess engine using modern techniques. [image source](https://www.istockphoto.com/photos/computer-chess)<br/><img src='/images/chess_big.jpg'>"
 
 
 collection: portfolio
