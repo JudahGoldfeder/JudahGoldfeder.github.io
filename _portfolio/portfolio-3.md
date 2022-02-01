@@ -1,11 +1,11 @@
 ---
 title: "Backend For Reasoning About Interaction Networks"
-excerpt: "Tool that uses formal verification to analyze gene interactions in cells.<br/><img src='/images/brein.png'>"
+excerpt: "Tool that uses formal verification to analyze gene interactions in cells.<br/><img src='/images/brein_big.png'>"
 
 
 collection: portfolio
 ---
-<br/><img src='/images/brein.png'>
+<br/><img src='/images/brein_big.png'>
 
 In the summer of 2018, I began working with [Hillel Kugler](https://www.eng.biu.ac.il/hillelk/) on implementing an open source version of [RE:IN](https://www.microsoft.com/en-us/research/project/reasoning-engine-for-interaction-networks-rein/), a tool developed by [Micrososft Research](https://www.microsoft.com/en-us/research/) to analyze observations about cell states, and conclude what gene interactions were and were not consistent woth the observations. 
 
