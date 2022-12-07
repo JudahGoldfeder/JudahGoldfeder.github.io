@@ -1,6 +1,6 @@
 ---
 title: "Evolved walking Robot"
-excerpt: "Evolved walking Robot, designed as part of Evolutionary Computation, Spring 2022.<br/><img src='/images/robot.png'>"
+excerpt: "Evolved walking Robot, designed as part of Evolutionary Computation, Spring 2022.<br/><img src='/images/walking_evolved_robot.png'>"
 
 
 collection: portfolio
