@@ -9,4 +9,4 @@ collection: portfolio
 
 The first ever paper to show intra-person fingerpring similarity, using Deep Learning. Publication forthcoming!
 
-For more details, checkout the [github](https://github.com/gabeguo/FingerprintMatching/).
+For more details, checkout the [github](https://github.com/gabeguo/FingerprintMatching/tree/refactor_training).
