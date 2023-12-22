@@ -12,5 +12,5 @@ Modern commercial Heating, Ventilation, and Air Conditioning (HVAC) devices form
 
 For more information, see the [paper](https://dl.acm.org/doi/fullHtml/10.1145/3600100.3625682), or watch our talk at RLEM (starts at 2 hour mark):
 
-<iframe width="928" height="522" src="https://www.youtube.com/embed/s_Yq5XhKWLM" title="RLEM23: The 4th ACM Workshop on Reinforcement Learning for Energy Management in Buildings and Cities" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="928" height="522" src="https://www.youtube.com/embed/s_Yq5XhKWLM?start=7283" title="RLEM23: The 4th ACM Workshop on Reinforcement Learning for Energy Management in Buildings and Cities" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
