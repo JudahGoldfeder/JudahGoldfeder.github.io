@@ -9,24 +9,9 @@ An analysis of early interperetations of 'Tzelem Elokim', originally written as 
 [Download paper here](http://judahgoldfeder.com/files/Tzelem_Elokim.pdf)
 
 
+<object data="http://judahgoldfeder.com/files/Tzelem_Elokim.pdf">
+    <embed src="http://yoursite.com/the.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://judahgoldfeder.com/files/Tzelem_Elokim.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 
-<!DOCTYPE html> 
-<html> 
-  
-<head> 
-    <title>PDF in HTML</title> 
-</head> 
-  
-<body> 
-    <center> 
-        <h1 style="color: green">GeeksforGeeks</h1> 
-        <h3>Embedding the PDF file Using Object Tag</h3> 
-        <object data= 
-"http://judahgoldfeder.com/files/Tzelem_Elokim.pdf" 
-                width="800"
-                height="500"> 
-        </object> 
-    </center> 
-</body> 
-  
-</html>
