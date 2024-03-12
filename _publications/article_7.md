@@ -9,8 +9,3 @@ An analysis of Shavuos.
 <object data="../files/Shavuos_and_Matan_Torah.pdf" width="1000" height="1000" type='application/pdf'></object>
 
 [Download paper here](http://judahgoldfeder.com/files/Shavuos_and_Matan_Torah.pdf)
-
-
-
-
-Shavuos_and_Matan_Torah.pdf
