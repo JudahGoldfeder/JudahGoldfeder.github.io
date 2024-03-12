@@ -1,6 +1,6 @@
 ---
 title: "Rambam and Korbanot"
-permalink: /publication/Rambam_and_Korbanot.pdf
+permalink: /publication/Rambam_and_Korbanot
 excerpt: 'An analysis of early interperetations of Tzelem Elokim.'
 paperurl: 'http://judahgoldfeder.com/files/Rambam_and_Korbanot.pdf'
 ---
