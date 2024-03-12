@@ -1,7 +1,7 @@
 ---
 title: "Rambam_and_Korbanot"
 permalink: /publication/Rambam_and_Korbanot
-excerpt: 'An analysis of Rambam's famous opinion'
+excerpt: 'An analysis of Rambams famous opinion'
 paperurl: 'http://judahgoldfeder.com/files/Rambam_and_Korbanot.pdf'
 ---
 An analysis of Rambam's famous opinion.
