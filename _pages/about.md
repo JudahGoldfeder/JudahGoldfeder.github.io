@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! My name is Judah Goldfeder, and I am a Phd student in the [Creative Machines Lab](https://www.creativemachineslab.com/) at [Columbia University](https://www.columbia.edu/), where I am fortunate to be advised by [Hod Lipson](https://www.hodlipson.com/), and to be a part of the [AI Institute in Dynamic Systems](https://dynamicsai.org/), generously funded by the [NSF](https://www.nsf.gov/). I am also a Student Researcher at [Google AI](https://ai.google/), and a Research Consultant for [Dicta](https://dicta.org.il/).
+Welcome! My name is Judah Goldfeder, and I am a Phd student in the [Creative Machines Lab](https://www.creativemachineslab.com/) at [Columbia University](https://www.columbia.edu/), where I am fortunate to be advised by [Hod Lipson](https://www.hodlipson.com/), and to be a part of the [AI Institute in Dynamic Systems](https://dynamicsai.org/), generously funded by the [NSF](https://www.nsf.gov/). I am also a Student Researcher at [Google AI]([https://ai.google/](https://research.google/people/judah-goldfeder/)), and a Research Consultant for [Dicta](https://dicta.org.il/).
 
 Research Interests
 ======
