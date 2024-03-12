@@ -1,6 +1,6 @@
 ---
 title: "Tzaraas"
-permalink: /publication/mishpatim
+permalink: /publication/tzaraas
 excerpt: 'An analysis of tzaraas in its various forms'
 paperurl: 'http://judahgoldfeder.com/files/tzaraas.pdf'
 ---
