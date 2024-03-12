@@ -1,7 +1,7 @@
 ---
 title: "Rambam and Korbanot"
 permalink: /publication/Rambam_and_Korbanot
-excerpt: 'An analysis of early interperetations of Tzelem Elokim.'
+excerpt: 'An analysis of sources in Chazal for Rambam's famous opinion.'
 paperurl: 'http://judahgoldfeder.com/files/Rambam_and_Korbanot.pdf'
 ---
 An analysis of sources in Chazal for Rambam's famous opinion.
