@@ -29,4 +29,4 @@ composition information, showing great promise for successful structure solution
 data. The approach doesn’t presuppose a crystalline structure and the approach are readily extended to other situations such
 as nanomaterials and textured samples, paving the way to reconstruction of yet unresolved nanostructures.
 
-For more details, checkout the [paper](https://arxiv.org/abs/2312.15136), and view the [code](https://github.com/gabeguo/deep-crystallography-public).
+For more details, checkout the npj Computational Materials [paper](https://www.nature.com/articles/s41524-024-01401-8), and view the [code](https://github.com/gabeguo/deep-crystallography-public).
