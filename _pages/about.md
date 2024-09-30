@@ -8,11 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! My name is Judah Goldfeder, and I am a Phd student in the [Creative Machines Lab](https://www.creativemachineslab.com/) at [Columbia University](https://www.columbia.edu/), where I am fortunate to be advised by [Hod Lipson](https://www.hodlipson.com/), and to be a part of the [AI Institute in Dynamic Systems](https://dynamicsai.org/), generously funded by the [NSF](https://www.nsf.gov/). I am also a Student Researcher at [Google AI]([https://ai.google/](https://research.google/people/judah-goldfeder/)), and a Research Consultant for [Dicta](https://dicta.org.il/).
+Welcome! My name is Judah Goldfeder, and I am a Phd student in the [Creative Machines Lab](https://www.creativemachineslab.com/) at [Columbia University](https://www.columbia.edu/), where I am fortunate to be advised by [Hod Lipson](https://www.hodlipson.com/), and to be a part of the [AI Institute in Dynamic Systems](https://dynamicsai.org/), generously funded by the [NSF](https://www.nsf.gov/). I am also a Student Researcher at [Google AI](https://research.google/people/judahgoldfeder/), and a Research Consultant for [Dicta](https://dicta.org.il/).
 
 Research Interests
 ======
 I am interested in most aspects of Artificial Intelligence, but some of the topics that interest me most are Reinforcement Learning, Algorithmic Game Theory, Multi-agent AI, Unsupervised Representation Learning, Multi-Task Learning and Geometric Learning. While we are quite far away from any form of AGI, I think these topics are all leading in that direction, which is part of why I find them so exciting.
+
+My work has mostly focused on the following areas:
+1. Deep Learning and Neural Network Theory
+2. Computer Vision
+3. Reinforcement Learning
+4. AI for Scientific Discovery
+5. AI for Sustainability
+6. Robotics
+7. Network Science
 
 Experience
 ======
