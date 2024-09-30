@@ -22,6 +22,7 @@ My work has mostly focused on the following areas:
 5. AI for Sustainability
 6. Robotics
 7. Network Science
+8. NLP for Low Resource Languages
 
 Experience
 ======
